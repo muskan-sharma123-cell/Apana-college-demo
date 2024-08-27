@@ -1,3 +1,3 @@
 # Apana-college-demo
 This is my first Git Repository
-Author Muskan Sharma 
+Author Muskan Sharma(Developer) 
